@@ -36,7 +36,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedd-Ayyman&layout=donut-vertical&theme=tokyonight&border_color=6C63FF&border_radius=12&langs_count=6&hide_border=false&size_weight=0.5&count_weight=0.5" width="250" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedd-Ayyman&layout=donut-vertical&theme=tokyonight&border_color=6C63FF&border_radius=12&langs_count=6&hide_border=false&size_weight=0.5&count_weight=0.5&cache_seconds=1800" width="250" />
 
 ```js
 const mohamed = {
