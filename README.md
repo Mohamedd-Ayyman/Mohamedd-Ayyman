@@ -10,7 +10,7 @@
 <!--                         TYPING SVG                                -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3C%2F%3E+Building+Production-Ready+Web+Apps;⚛️+React+•+Next.js+•+TypeScript+•+Node.js;🚀+12+Repos+•+Full-Stack+•+Deployed+on+Vercel)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3C%2F%3E+Building+Production-Ready+Web+Apps;⚛️+React+•+Next.js+•+TypeScript+•+Node.js)](https://git.io/typing-svg)
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                       SOCIAL BADGES                               -->
@@ -54,8 +54,7 @@ const mohamed = {
     ai_ml:     ["TensorFlow", "PyTorch", "OpenCV", "NumPy"],
   },
   
-  currentFocus: "Building scalable full-stack React/Next.js apps",
-  funFact: "I deploy everything on Vercel 🚀",
+ ,
 };
 ```
 
