@@ -1,424 +1,140 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                        ANIMATED HEADER                            -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:6C63FF&height=210&section=header&text=Mohamed%20Ayman&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Frontend%20%2F%20Full-Stack%20Engineer&descSize=18&descAlignY=56" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161B22,100:6C63FF&height=230&section=header&text=Mohamed%20Ayman&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Web%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20Node.js&descSize=17&descAlignY=55&descAlign=50" width="100%"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=6C63FF&center=true&vCenter=true&width=640&lines=React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Real-time+apps+%E2%80%A2+Healthcare+platforms+%E2%80%A2+AI+features;Clean+architecture.+Polished+UI.+Shipped." alt="Typing SVG" /></a>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                         TYPING SVG                                -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3C%2F%3E+Building+Production-Ready+Web+Apps;⚛️+React+•+Next.js+•+TypeScript+•+Node.js)](https://git.io/typing-svg)
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                       SOCIAL BADGES                               -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<a href="https://github.com/Mohamedd-Ayyman"><img src="https://img.shields.io/badge/GitHub-Mohamedd--Ayyman-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
-<a href="mailto:mohamed.ebrahim021@eng-st.cu.edu.eg"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://mohamedd-ayyman.github.io"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Mohamedd-Ayyman&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/Mohamedd-Ayyman?style=for-the-badge&color=6C63FF&labelColor=0d1117&logo=github" />
+<a href="https://linkedin.com/in/mohamed-ayman-8787b0269"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mohamed.ebrahim021@eng-st.cu.edu.eg"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Cairo,_Egypt-1f2937?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open_to_work-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 
 </div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                         ABOUT ME                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedd-Ayyman&layout=donut-vertical&theme=tokyonight&border_color=6C63FF&border_radius=12&langs_count=6&hide_border=false&size_weight=0.5&count_weight=0.5&cache_seconds=1800" width="250" />
-
-```js
-const mohamed = {
-  role: "Full-Stack Web Developer",
-  location: "Cairo, Egypt",
-  education: "Cairo University — BSc (2026)",
-  
-  code: ["JavaScript", "TypeScript", "Python", "C++"],
-  
-  technologies: {
-    frontend:  ["React", "Next.js 15", "Tailwind CSS", "Bootstrap"],
-    backend:   ["Node.js", "Express.js", "Django", "REST APIs"],
-    databases: ["PostgreSQL", "SQLite", "Firebase", "Redis"],
-    devOps:    ["Vercel", "Git", "GitHub Actions"],
-    ai_ml:     ["TensorFlow", "PyTorch", "OpenCV", "NumPy"],
-  },
-  
- ,
-};
-```
-
-<br clear="both"/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     TECH STACK (ANIMATED)                         -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+### 👋 About me
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Arsenal
+I'm a **Frontend-focused Full-Stack Engineer** and a 2026 graduate of **Cairo University's Faculty of Engineering**. I build responsive, production-grade web apps with **React, Next.js and TypeScript**, backed by **Node.js/NestJS** services and **MongoDB/PostgreSQL**.
 
-<div align="center">
-
-### 💻 Languages
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-### ⚛️ Frontend
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-
-### 🔧 Backend & Database
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-
-### 🧰 Tools & DevOps
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-
-### 🧠 AI & ML
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-
-</div>
-
-<br/>
+- 🏥 I **led frontend development of CodeBlue**, a microservices healthcare platform for **50+ outpatient clinics** at Kasr Al Ainy Hospitals, with bilingual (Arabic/English, RTL) UIs, role-based dashboards and integrated ML features. The project won a **64,000 EGP ASRT grant**.
+- ⚡ I like hard frontend problems: **real-time** features (WebSockets, WebRTC), complex dashboards, **i18n/RTL**, **offline-first PWAs** and performance work.
+- 💼 Previously a **Full-Stack Developer Intern at Peerless Technology** and a **React Developer Intern at DEPI (MCIT)**.
+- 🌍 Arabic (native) · English (C1) · German (A2) · French (A2)
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                              -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Featured Projects
-
-<div align="center">
-
-<!-- ─── Project 1: CDSS X-Ray App ──────────────────────────────────── -->
-
-<a href="https://github.com/Mohamedd-Ayyman/cdss-xray-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamedd-Ayyman&repo=cdss-xray-app&theme=tokyonight&border_color=6C63FF&border_radius=12&show_owner=true" />
-</a>
-
-</div>
-
-> **🩺 AI-Powered Clinical Decision Support System** — Full-stack application for chest X-ray analysis with **89.9% pneumonia detection accuracy**. Features drag-and-drop uploads, heatmap visualization, patient vitals integration, severity classification, and downloadable diagnostic reports.
-> 
-> `Next.js 15` `React 19` `TypeScript` `Django` `TensorFlow` `PyTorch` `Tailwind CSS` `REST API` `Recharts`
-
-<br/>
-
-<div align="center">
-
-<!-- ─── Project 2 & 3 ──────────────────────────────────────────────── -->
-
-<a href="https://github.com/Mohamedd-Ayyman/Hospital-Infection-Control">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamedd-Ayyman&repo=Hospital-Infection-Control&theme=tokyonight&border_color=6C63FF&border_radius=12" />
-</a>
-<a href="https://github.com/Mohamedd-Ayyman/standards-final-project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamedd-Ayyman&repo=standards-final-project&theme=tokyonight&border_color=6C63FF&border_radius=12" />
-</a>
-
-</div>
+### 🚀 Featured projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-> **🏥 Hospital Infection Control** — Full-stack web app with **client/server architecture** and **39 commits**. Tracks and manages infection control data with a clean, responsive UI. Deployed live on Vercel.
-> 
-> `JavaScript` `Next.js` `CSS` `Vercel` `REST API`
-> 
-> 🔗 [**Live Demo**](https://hospital-infection-control.vercel.app)
+#### ⚡ [JULO](https://github.com/Mohamedd-Ayyman/JULO)
+A real-time social platform: a feed, stories, **group chat with voice notes and reactions**, **WebRTC voice and video calls**, live notifications, Stripe billing and Redis-backed caching and rate limiting, with Docker and CI.
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO"/> <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-> **📋 Standards Final Project** — Collaborative full-stack project (**3 contributors**, 18 commits) with dedicated client and server directories. Full CRUD operations with Vercel deployment.
-> 
-> `JavaScript` `Next.js` `CSS` `Vercel` `Node.js`
-> 
-> 🔗 [**Live Demo**](https://standards-final-project.vercel.app)
+#### 🏥 CodeBlue: AI-Enhanced Clinics Management *(graduation project)*
+A microservices system for **50+ clinics** with Super Admin, Doctor and Patient portals, a bilingual RTL UI, **National ID OCR** and **speech-to-text clinical dictation**. I coordinated the frontend in a 6-person team.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🩹 [PostOp Guard](https://github.com/Mohamedd-Ayyman/Post-Operative)
+A post-surgery infection-risk platform. Patients send daily check-ins, a **Random Forest model** (Flask microservice) scores their risk, and clinicians get real-time alerts and recovery trend charts.
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/scikit----learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit--learn"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌙 [Rafeeq](https://github.com/Mohamedd-Ayyman/Rafeeq)
+A gamified, **offline-first PWA** worship companion with streaks, XP, achievements, community challenges, a buddy system, an AI assistant, real-time notifications and Playwright end-to-end tests.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/> <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏖️ [Resort Booking System](https://github.com/Mohamedd-Ayyman/resort-booking)
+End-to-end resort reservations: live availability, a seasonal pricing engine, a multi-step booking wizard, **Stripe payments**, PDF receipts and an admin dashboard with revenue and occupancy analytics.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO"/>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛍️ [Shop.it](https://github.com/Mohamedd-Ayyman/shop.it)
+A MERN e-commerce platform with a feature-based layered backend: cart, wishlist, coupons, reviews, orders, an **RBAC admin back office** with analytics, JWT refresh tokens and real-time notifications.
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎬 [ReelReserve](https://github.com/Mohamedd-Ayyman/ReelReserve)
+Cinema booking with interactive seat maps generated from each hall's layout, multi-cinema scheduling, promo codes, loyalty tiers and a full admin console.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🤖 [AI Sales Automator](https://github.com/Mohamedd-Ayyman/ai-sales-automation)
+Multi-agent AI that analyses a SaaS codebase, discovers and scores leads across the web, and runs personalised Gmail outreach, all on **local LLMs**.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-<div align="center">
-
-<!-- ─── Project 4 & 5 ──────────────────────────────────────────────── -->
-
-<a href="https://github.com/Mohamedd-Ayyman/mezax-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamedd-Ayyman&repo=mezax-app&theme=tokyonight&border_color=6C63FF&border_radius=12" />
-</a>
-<a href="https://github.com/Mohamedd-Ayyman/lab-ui">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamedd-Ayyman&repo=lab-ui&theme=tokyonight&border_color=6C63FF&border_radius=12" />
-</a>
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-> **⚡ Mezax App** — Modern Next.js application with optimized Geist fonts and PostCSS pipeline. Built with the latest App Router architecture.
-> 
-> `Next.js` `JavaScript` `CSS` `PostCSS` `Vercel`
-> 
-> 🔗 [**Live Demo**](https://mezax-app.vercel.app)
-
-</td>
-<td width="50%">
-
-> **🧪 Lab Testing UI** — Next.js interface for lab testing workflows. Features Tailwind CSS styling, PostCSS processing, and Vercel deployment.
-> 
-> `Next.js` `JavaScript` `Tailwind CSS` `PostCSS` `Vercel`
-> 
-> 🔗 [**Live Demo**](https://mohamedayman-1200245-labtesting-ui.vercel.app)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-<!-- ─── Project 6 & 7 ──────────────────────────────────────────────── -->
-
-<a href="https://github.com/Mohamedd-Ayyman/database-operation-rooms">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamedd-Ayyman&repo=database-operation-rooms&theme=tokyonight&border_color=6C63FF&border_radius=12" />
-</a>
-<a href="https://github.com/Mohamedd-Ayyman/Radiology-department">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamedd-Ayyman&repo=Radiology-department&theme=tokyonight&border_color=6C63FF&border_radius=12" />
-</a>
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-> **🗄️ Database Operation Rooms** — Next.js application for managing operation room databases. Features App Router, Geist fonts, and PostCSS.
-> 
-> `Next.js` `JavaScript` `CSS` `PostCSS` `Vercel`
-
-</td>
-<td width="50%">
-
-> **🔬 Radiology Department** — React-based department management system built with Create React App. Component-based architecture.
-> 
-> `React` `JavaScript` `CSS` `Create React App`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-<!-- ─── Additional Projects ────────────────────────────────────────── -->
-
-<a href="https://github.com/Mohamedd-Ayyman/Lab1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamedd-Ayyman&repo=Lab1&theme=tokyonight&border_color=6C63FF&border_radius=12" />
-</a>
-<a href="https://github.com/Mohamedd-Ayyman/seifshaaer-standards-lab">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamedd-Ayyman&repo=seifshaaer-standards-lab&theme=tokyonight&border_color=6C63FF&border_radius=12" />
-</a>
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-> **📁 Lab 1** — Full-stack lab project with dedicated **FE** and **BE** directories. JavaScript & HTML front-end with a Node.js backend. 7 commits.
-> 
-> `JavaScript` `HTML` `Node.js`
-
-</td>
-<td width="50%">
-
-> **🧩 Standards Lab** — Next.js lab application with Tailwind CSS. Deployed on Vercel with PostCSS pipeline.
-> 
-> `Next.js` `JavaScript` `Tailwind CSS` `Vercel`
-> 
-> 🔗 [**Live Demo**](https://seifshaaer-standards-lab.vercel.app)
-
-</td>
-</tr>
-</table>
-
-<br/>
+<sub>More projects: [Hospital Infection Control](https://github.com/Mohamedd-Ayyman/Hospital-Infection-Control) · [Free YT Downloader](https://github.com/Mohamedd-Ayyman/free-easy-yt-downloader) · [Tazkarti Booking Bot](https://github.com/Mohamedd-Ayyman/tazkarti) · [Weather App](https://github.com/Mohamedd-Ayyman/Weather-app)</sub>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     GITHUB ANALYTICS                              -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+### 🧰 Tech stack
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp;GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohamedd-Ayyman&show_icons=true&theme=tokyonight&border_color=6C63FF&border_radius=12&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github&ring_color=6C63FF&icon_color=6C63FF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedd-Ayyman&theme=tokyonight&border=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=FFFFFF&border_radius=12" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Mohamed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohamedd-Ayyman&theme=tokyo-night&border_color=6C63FF&bg_color=1a1b27&color=FFFFFF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=false&radius=12&custom_title=📈%20Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    EXPERIENCE TIMELINE                            -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="28"> &nbsp;Professional Experience
-
-```
-📅 Apr 2024 – Oct 2024  ▸  ⚛️ React Web Developer @ DEPI (Cairo)
-   ├── Developed full-stack web applications using React, Node.js & PostgreSQL
-   ├── Integrated third-party APIs and implemented responsive UI components
-   └── Worked in agile sprints with cross-functional teams
-
-📅 Jun 2023 – Sep 2023  ▸  🏥 Biomedical Engineer Intern @ Cleopatra Hospital
-   ├── Maintained and troubleshot hospital biomedical equipment
-   └── Supported optimization of healthcare technology systems
-```
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    SKILLS & EDUCATION                             -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## 🎓 Education & Skills
-
-<div align="center">
-
-🏛️ **Cairo University** — BSc in Biomedical Engineering *(Expected 2026)*
-
-</div>
-
-<details>
-<summary>📚 <b>Relevant Software Coursework</b> (click to expand)</summary>
-<br/>
-
-| Area | Courses |
-|------|---------|
-| **Core CS** | Data Structures & Algorithms, Programming Techniques, Software Engineering |
-| **Web & Systems** | Distributed Application Development, Database Systems, Embedded Systems |
-| **Graphics & Vision** | Image Processing & Computer Vision, Computer Graphics & Visualization |
-| **Math** | Discrete Mathematics |
-
-</details>
-
-<br/>
-
-<div align="center">
-
-### 💡 Core Competencies
-
-<img src="https://img.shields.io/badge/Problem_Solving-6C63FF?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Teamwork-4CAF50?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Communication-2196F3?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Fast_Learner-FF9800?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Adaptability-9C27B0?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Leadership-F44336?style=for-the-badge&logoColor=white" />
-
-<br/><br/>
-
-### 🌍 Languages
-
-🇪🇬 **Arabic** — Native &nbsp;|&nbsp; 🇬🇧 **English** — C1 &nbsp;|&nbsp; 🇩🇪 **German** — A2 &nbsp;|&nbsp; 🇫🇷 **French** — A1
-
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION SNAKE                             -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohamedd-Ayyman/Mohamedd-Ayyman/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohamedd-Ayyman/Mohamedd-Ayyman/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mohamedd-Ayyman/Mohamedd-Ayyman/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                         FOOTER                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 🤝 Let's Build Something Amazing Together
-
-<p>
-<a href="mailto:mohamed.ebrahim021@eng-st.cu.edu.eg">
-  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;
-<a href="https://github.com/Mohamedd-Ayyman">
-  <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>&nbsp;
-<a href="https://mohamedd-ayyman.github.io">
-  <img src="https://img.shields.io/badge/Visit_Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,html,css,vite&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,redis,prisma,firebase&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,postman,python,cpp,figma&theme=dark" />
 </p>
 
-<br/>
+| Area | Tools |
+|---|---|
+| **Frontend** | React, Next.js, TypeScript, Redux Toolkit, Zustand, React Query, Tailwind CSS, shadcn/ui, Framer Motion, GSAP |
+| **Backend** | Node.js, Express, NestJS, REST, WebSockets (Socket.IO), WebRTC, BullMQ |
+| **Data** | MongoDB, PostgreSQL, Redis, Prisma, Mongoose |
+| **DevOps & testing** | Docker, GitHub Actions, Vercel, Railway, Jest, Vitest, Playwright, Postman |
+| **Practices** | Component architecture, RBAC, i18n/RTL, offline-first PWAs, performance optimisation |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161B22,100:6C63FF&height=120&section=footer" width="100%" />
+---
+
+### 📊 GitHub activity
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=Mohamedd-Ayyman&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+
+---
+
+<div align="center">
+
+**Let's build something great together.** I'm open to frontend and full-stack roles.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:1f2937,100:0d1117&height=110&section=footer" width="100%"/>
 
 </div>
