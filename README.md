@@ -38,7 +38,7 @@ A real-time social platform: a feed, stories, **group chat with voice notes and 
 </td>
 <td width="50%" valign="top">
 
-#### 🏥 CodeBlue: AI-Enhanced Clinics Management *(graduation project)*
+#### 🏥 [CodeBlue: AI-Enhanced Clinics Management](https://github.com/MMansy19/Outpatient-Clinics-Management-System-Graduation-Project-) <sub>🎓 graduation project</sub>
 A microservices system for **50+ clinics** with Super Admin, Doctor and Patient portals, a bilingual RTL UI, **National ID OCR** and **speech-to-text clinical dictation**. I coordinated the frontend in a 6-person team.
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
@@ -66,7 +66,7 @@ A gamified, **offline-first PWA** worship companion with streaks, XP, achievemen
 <tr>
 <td width="50%" valign="top">
 
-#### 🏖️ [Resort Booking System](https://github.com/Mohamedd-Ayyman/resort-booking)
+#### 🏖️ Resort Booking System <sub>🔒 private · code available on request</sub>
 End-to-end resort reservations: live availability, a seasonal pricing engine, a multi-step booking wizard, **Stripe payments**, PDF receipts and an admin dashboard with revenue and occupancy analytics.
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO"/>
@@ -84,7 +84,7 @@ A MERN e-commerce platform with a feature-based layered backend: cart, wishlist,
 <tr>
 <td width="50%" valign="top">
 
-#### 🎬 [ReelReserve](https://github.com/Mohamedd-Ayyman/ReelReserve)
+#### 🎬 ReelReserve <sub>🔒 private · code available on request</sub>
 Cinema booking with interactive seat maps generated from each hall's layout, multi-cinema scheduling, promo codes, loyalty tiers and a full admin console.
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -92,7 +92,7 @@ Cinema booking with interactive seat maps generated from each hall's layout, mul
 </td>
 <td width="50%" valign="top">
 
-#### 🤖 [AI Sales Automator](https://github.com/Mohamedd-Ayyman/ai-sales-automation)
+#### 🤖 AI Sales Automator <sub>🔒 private · code available on request</sub>
 Multi-agent AI that analyses a SaaS codebase, discovers and scores leads across the web, and runs personalised Gmail outreach, all on **local LLMs**.
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
@@ -101,7 +101,7 @@ Multi-agent AI that analyses a SaaS codebase, discovers and scores leads across 
 </tr>
 </table>
 
-<sub>More projects: [Hospital Infection Control](https://github.com/Mohamedd-Ayyman/Hospital-Infection-Control) · [Free YT Downloader](https://github.com/Mohamedd-Ayyman/free-easy-yt-downloader) · [Tazkarti Booking Bot](https://github.com/Mohamedd-Ayyman/tazkarti) · [Weather App](https://github.com/Mohamedd-Ayyman/Weather-app)</sub>
+<sub>More projects: [Hospital Infection Control](https://github.com/Mohamedd-Ayyman/Hospital-Infection-Control) · [Noir Brew](https://github.com/Mohamedd-Ayyman/Noir-Brew) · [Radiology Department](https://github.com/Mohamedd-Ayyman/Radiology-department)</sub>
 
 ---
 
