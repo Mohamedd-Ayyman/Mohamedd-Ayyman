@@ -30,7 +30,7 @@ I'm a **Frontend-focused Full-Stack Engineer** and a 2026 graduate of **Cairo Un
 <tr>
 <td width="50%" valign="top">
 
-#### ⚡ [JULO](https://github.com/Mohamedd-Ayyman/JULO)
+#### ⚡ [JULO](https://github.com/Mohamedd-Ayyman/JULO) · [Live demo ↗](https://julo-blush.vercel.app/)
 A real-time social platform: a feed, stories, **group chat with voice notes and reactions**, **WebRTC voice and video calls**, live notifications, Stripe billing and Redis-backed caching and rate limiting, with Docker and CI.
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO"/> <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -38,7 +38,7 @@ A real-time social platform: a feed, stories, **group chat with voice notes and 
 </td>
 <td width="50%" valign="top">
 
-#### 🏥 CodeBlue: AI-Enhanced Clinics Management <sub>🎓 graduation project · private</sub>
+#### 🏥 CodeBlue: AI-Enhanced Clinics Management *(graduation project)*
 A microservices system for **50+ clinics** with Super Admin, Doctor and Patient portals, a bilingual RTL UI, **National ID OCR** and **speech-to-text clinical dictation**. I coordinated the frontend in a 6-person team.
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
@@ -66,7 +66,7 @@ A gamified, **offline-first PWA** worship companion with streaks, XP, achievemen
 <tr>
 <td width="50%" valign="top">
 
-#### 🏖️ Resort Booking System <sub>🔒 private · code available on request</sub>
+#### 🏖️ [Resort Booking System](https://github.com/Mohamedd-Ayyman/resort-booking)
 End-to-end resort reservations: live availability, a seasonal pricing engine, a multi-step booking wizard, **Stripe payments**, PDF receipts and an admin dashboard with revenue and occupancy analytics.
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO"/>
@@ -84,7 +84,7 @@ A MERN e-commerce platform with a feature-based layered backend: cart, wishlist,
 <tr>
 <td width="50%" valign="top">
 
-#### 🎬 ReelReserve <sub>🔒 private · code available on request</sub>
+#### 🎬 [ReelReserve](https://github.com/Mohamedd-Ayyman/ReelReserve)
 Cinema booking with interactive seat maps generated from each hall's layout, multi-cinema scheduling, promo codes, loyalty tiers and a full admin console.
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -92,7 +92,7 @@ Cinema booking with interactive seat maps generated from each hall's layout, mul
 </td>
 <td width="50%" valign="top">
 
-#### 🤖 AI Sales Automator <sub>🔒 private · code available on request</sub>
+#### 🤖 [AI Sales Automator](https://github.com/Mohamedd-Ayyman/ai-sales-automation)
 Multi-agent AI that analyses a SaaS codebase, discovers and scores leads across the web, and runs personalised Gmail outreach, all on **local LLMs**.
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
@@ -101,7 +101,7 @@ Multi-agent AI that analyses a SaaS codebase, discovers and scores leads across 
 </tr>
 </table>
 
-<sub>More projects: [Hospital Infection Control](https://github.com/Mohamedd-Ayyman/Hospital-Infection-Control) · [Noir Brew](https://github.com/Mohamedd-Ayyman/Noir-Brew) · [Radiology Department](https://github.com/Mohamedd-Ayyman/Radiology-department)</sub>
+<sub>More projects: [Hospital Infection Control](https://github.com/Mohamedd-Ayyman/Hospital-Infection-Control) · [Free YT Downloader](https://github.com/Mohamedd-Ayyman/free-easy-yt-downloader) · [Tazkarti Booking Bot](https://github.com/Mohamedd-Ayyman/tazkarti) · [Weather App](https://github.com/Mohamedd-Ayyman/Weather-app)</sub>
 
 ---
 
