@@ -110,7 +110,7 @@ Infection reports with a **review and verification workflow**, department **comp
 <td width="50%" valign="top">
 
 #### 📈 Signal Viewer · Multi-Channel Biomedical Monitor
-<sub>[Case study](https://portfolio-ruby-two-inbd7f43o7.vercel.app/projects/signal-viewer) · [Code](https://github.com/Mohamedd-Ayyman/Signal-Viewer-App)</sub>
+<sub>[Case study](https://portfolio-ruby-two-inbd7f43o7.vercel.app/projects/signal-viewer) · [Code](https://github.com/Mohamedd-Ayyman/signal-viewer)</sub>
 
 An ICU-style viewer for **ECG, EMG and EEG** with two graphs that run independently or linked, real-time playback, per-signal controls, and **PDF reports** with signal statistics.
 
